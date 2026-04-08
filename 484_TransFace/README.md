@@ -49,6 +49,8 @@ python demo/demo_transface_onnx_cosine_similarity.py \
 --output_html images_out/results_l.html
 ```
 
+<img width="854" height="1014" alt="image" src="https://github.com/user-attachments/assets/c1b965b4-dcf9-4b1b-b140-cad960e16f51" />
+
 ## Citation
 
 ```bibtex
