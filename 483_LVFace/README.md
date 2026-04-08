@@ -1,5 +1,5 @@
 # 483_LVFace
-[ICCV 2025 Highlight] Official open-source repo for LVFace: Progressive Cluster Optimization for Large Vision Models in Face Recognition
+[ICCV 2025 Highlight] LVFace: Progressive Cluster Optimization for Large Vision Models in Face Recognition
 
 <img width="2381" height="698" alt="image" src="https://github.com/user-attachments/assets/1d665e1e-8976-4f00-a8e6-87ef5fe1c617" />
 
