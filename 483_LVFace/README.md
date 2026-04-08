@@ -1,6 +1,7 @@
 # 483_LVFace
 [ICCV 2025 Highlight] Official open-source repo for LVFace: Progressive Cluster Optimization for Large Vision Models in Face Recognition
 
+<img width="2381" height="698" alt="image" src="https://github.com/user-attachments/assets/1d665e1e-8976-4f00-a8e6-87ef5fe1c617" />
 
 ## Face crop
 
@@ -51,4 +52,14 @@ python demo/demo_transface_onnx_cosine_similarity.py \
 python demo/demo_transface_onnx_cosine_similarity.py \
 --input_markdown images_out/results_l.md \
 --output_html images_out/results_l.html
+```
+
+## Citation
+```bibtex
+@inproceedings{you2025lvface,
+  title={{LVFace}: Progressive Cluster Optimization for Large Vision Models in Face Recognition},
+  author={You, Jinghan and Li, Shanglin and Sun, Yuanrui and Wei, Jiangchuan and Guo, Mingyu and Feng, Chao and Ran, Jiao},
+  booktitle={ICCV},
+  year={2025}
+}
 ```
