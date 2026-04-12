@@ -41,7 +41,7 @@ The use of [CD-COCO: Complex Distorted COCO database for Scene-Context-Aware com
 
 ## 2. Annotation
 
-  Halfway compromises are never acceptable. The trick to annotation is to not miss a single object and not compromise on a single pixel. The ultimate methodology is to `try your best`. I manually labeled 1,034,735 items.
+  Halfway compromises are never acceptable. The trick to annotation is to not miss a single object and not compromise on a single pixel. The ultimate methodology is to `try your best`. I manually labeled 1,257,651 items.
 
   <img width="960" height="965" alt="image" src="https://github.com/user-attachments/assets/ee49eb1b-d2ca-42b2-a55f-75ee5afc3af2" />
 
