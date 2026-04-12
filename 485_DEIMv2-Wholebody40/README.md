@@ -43,8 +43,7 @@ The use of [CD-COCO: Complex Distorted COCO database for Scene-Context-Aware com
 
   Halfway compromises are never acceptable. The trick to annotation is to not miss a single object and not compromise on a single pixel. The ultimate methodology is to `try your best`. I manually labeled 1,034,735 items.
 
-  <img width="958" height="850" alt="image" src="https://github.com/user-attachments/assets/cc423513-3136-48fa-a310-3d411d5ee3f4" />
-
+  <img width="960" height="965" alt="image" src="https://github.com/user-attachments/assets/ee49eb1b-d2ca-42b2-a55f-75ee5afc3af2" />
 
   Please feel free to change the head direction label as you wish. There is no correlation between the model's behavior and the meaning of the label text.
 
@@ -75,17 +74,23 @@ The use of [CD-COCO: Complex Distorted COCO database for Scene-Context-Aware com
   |Ear|20||
   |Collarbone|21|Keypoints|
   |Shoulder|22|Keypoints|
-  |Solar_Plexus|23|Keypoints|
-  |Elbow|24|Keypoints|
-  |Wrist|25|Keypoints|
-  |Hand|26|Detection accuracy is higher than `Hand_Left` and `Hand_Right` bounding boxes. It is the sum of `Hand_Left`, and `Hand_Right`.|
-  |Hand_Left|27|Bounding box coordinates are shared with `Hand`. It is defined as a subclass of `Hand` as a superclass.|
-  |Hand_Right|28|Bounding box coordinates are shared with `Hand`. It is defined as a subclass of `Hand` as a superclass.|
-  |Abdomen|29|Keypoints|
-  |Hip_Joint|30|Keypoints|
-  |Knee|31|Keypoints|
-  |Ankle|32|Keypoints|
-  |Foot (Feet)|33||
+  |Shoulder_Left|23|Keypoints. Bounding box coordinates are shared with `Shoulder`. It is defined as a subclass of `Shoulder` as a superclass.|
+  |Shoulder_Right|24|Keypoints. Bounding box coordinates are shared with `Shoulder`. It is defined as a subclass of `Shoulder` as a superclass.|  
+  |Solar_Plexus|25|Keypoints|
+  |Elbow|26|Keypoints|
+  |Elbow_Left|27|Keypoints. Bounding box coordinates are shared with `Elbow`. It is defined as a subclass of `Elbow` as a superclass.|
+  |Elbow_Right|28|Keypoints. Bounding box coordinates are shared with `Elbow`. It is defined as a subclass of `Elbow` as a superclass.|
+  |Wrist|29|Keypoints|
+  |Wrist_Left|30|Keypoints. Bounding box coordinates are shared with `Wrist`. It is defined as a subclass of `Wrist` as a superclass.|
+  |Wrist_Right|31|Keypoints. Bounding box coordinates are shared with `Wrist`. It is defined as a subclass of `Wrist` as a superclass.|
+  |Hand|32|Detection accuracy is higher than `Hand_Left` and `Hand_Right` bounding boxes. It is the sum of `Hand_Left`, and `Hand_Right`.|
+  |Hand_Left|33|Bounding box coordinates are shared with `Hand`. It is defined as a subclass of `Hand` as a superclass.|
+  |Hand_Right|34|Bounding box coordinates are shared with `Hand`. It is defined as a subclass of `Hand` as a superclass.|
+  |Abdomen|35|Keypoints|
+  |Hip_Joint|36|Keypoints|
+  |Knee|37|Keypoints|
+  |Ankle|38|Keypoints|
+  |Foot (Feet)|39||
 
 ## 3. Test
   - Python 3.10+
