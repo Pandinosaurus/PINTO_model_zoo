@@ -142,7 +142,7 @@ The use of [CD-COCO: Complex Distorted COCO database for Scene-Context-Aware com
   ```bibtex
   @software{DEIMv2-Wholebody40,
     author={Katsuya Hyodo},
-    title={Unified multi-task model for detection, pose estimation, and instance segmentation. Lightweight human detection models generated on high-quality human data sets. It can detect objects with high accuracy and speed in a total of 28 classes: body, adult, child, male, female, body_with_wheelchair, body_with_crutches, head, front, right_front, right_side, right_back, back, left_back, left_side, left_front, face, eye, nose, mouth, ear, collarbone, shoulder, shoulder_left, shoulder_right, solar_plexus, elbow, elbow_left, elbow_right, wrist, wrist_left, wrist_right, hand, hand_left, hand_right, abdomen, hip_joint, knee, ankle, foot.},
+    title={Unified multi-task model for detection, pose estimation, and instance segmentation. Lightweight human detection models generated on high-quality human data sets. It can detect objects with high accuracy and speed in a total of 40 classes: body, adult, child, male, female, body_with_wheelchair, body_with_crutches, head, front, right_front, right_side, right_back, back, left_back, left_side, left_front, face, eye, nose, mouth, ear, collarbone, shoulder, shoulder_left, shoulder_right, solar_plexus, elbow, elbow_left, elbow_right, wrist, wrist_left, wrist_right, hand, hand_left, hand_right, abdomen, hip_joint, knee, ankle, foot.},
     url={https://github.com/PINTO0309/PINTO_model_zoo/tree/main/485_DEIMv2-Wholebody40},
     year={2026},
     month={04},
