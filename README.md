@@ -125,6 +125,7 @@ I have been working on quantization of various models as a hobby, but I have ski
 |481|WHC|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/481_WHC)|||||||||||⚫|4x32x32,6x32x32,8x32x32, Waving Hand Classification|
 |483|LVFace|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/483_LVFace)|||||||||||⚫|Nx3x112x112, Cosine similarity|
 |484|TransFace|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/484_TransFace)|||||||||||⚫|Nx3x112x112, Cosine similarity|
+|486|MWC|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/486_MWC)|||||||||||⚫|Nx3x48x48, Mask wearing classifier|
 ### 2. 2D Object Detection
 |No.|Model Name|Link|FP32|FP16|INT8|TPU|DQ|WQ|OV|CM|TFJS|TF-TRT|ONNX|Remarks|
 |:-|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-|
